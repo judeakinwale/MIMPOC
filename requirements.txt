@@ -1,0 +1,4 @@
+django
+wheel
+pyodbc
+mssql-django
