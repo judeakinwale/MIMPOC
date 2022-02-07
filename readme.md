@@ -1,5 +1,5 @@
 ## Config:
-In MIMPOC/settings.py, search for "DATABASES" and change the database connection detais
+In MIMPOC/settings.py, search for "DATABASES" and change the database connection details
 
 ## Run:
 
